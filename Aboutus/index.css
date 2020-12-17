@@ -1,0 +1,139 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Open Sans', sans-serif;
+    scroll-behavior: smooth;
+}
+
+/*1*/
+.about1 {
+    background-image: url(http://ohlala.bold-themes.com/main-demo/wp-content/uploads/sites/3/2017/05/hero_inner_08.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.about1-info{
+    color: white;
+    display: block;
+   width: 35%;
+    margin-left: 100px;
+}
+.bo1{
+    padding-top: 200px;
+
+}
+/*2*/
+.about2 {
+    background-color: #fde1e2;
+    text-align: center;
+
+}
+.about2-info{
+    color: #ff4562;
+    padding-top: 130px;
+}
+.about2-info h3{
+    padding-top: 20px;
+}
+.about2-info1{
+    margin: 25px auto;
+    line-height: 28px;
+    width: 60%;
+
+}
+.about2-info1 p{
+    padding-top: 30px;
+}
+/*3*/
+.about3{
+    background-color: #fde1e2;
+
+}
+.about3-slide{
+    width: 100%;
+
+}
+.about3-slide img{
+    width: 19.766%;
+}
+/*4*/
+.about4{
+    background-color: #fde1e2;
+
+}
+.about4-info{
+    text-align: center;
+    padding-top: 10px;
+}
+.about4-info1 img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+
+}
+.post-image{
+    flex-basis: 50%;
+    height: 222px;
+    overflow: hidden;
+    position: relative;
+
+}
+.oc2{
+    margin-left: 260px;
+}
+.post-image:after{
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.ts-title{
+    margin-top: 20px;
+
+}
+.ts-title>a{
+    color: #ff4562;
+}
+
+.post-content{
+    margin-top: 30px;
+}
+.pro1{
+    margin-top: 18px;
+    width: 29%;
+    box-sizing: border-box;
+    float: left;
+    margin-right: 50px;
+}
+/*map*/
+/*5*/
+.about5{
+    background-color: #35c1c0;
+
+}
+.about5-info{
+    color: #ffffff;
+    width: 50%;
+    float: left;
+}
+.contact{
+    width: 75%;
+    margin-top: 80px;
+    margin-left: 100px;
+}
+.contact2{
+   float: right;
+    margin-top: -215px;
+}
+.about5-contact{
+    float: right;
+    width: 50%;
+}
+
